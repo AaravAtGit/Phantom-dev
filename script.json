@@ -1,0 +1,12 @@
+{
+"line 1": "This is a comment indicating the code is licensed under the MIT License.",
+"line 2": "This line is specifying the compiler version for Solidity, a programming language for Ethereum smart contracts.",
+"line 4": "This line is declaring a new smart contract named Error_Handeling.",
+"line 5": "This line is declaring a public function named RequireFunc that takes an unsigned integer as an argument.",
+"line 6": "This line is using the require statement to ensure the input is greater than 7, or the transaction will be reverted and an error message will be returned.",
+"line 9": "This line is declaring a public function named RevertFunc that takes an unsigned integer as an argument.",
+"line 10": "This line is starting an if statement that checks if the input is less than or equal to 7.",
+"line 11": "This line is using the revert statement to revert the transaction and return an error message if the input is less than or equal to 7.",
+"line 15": "This line is declaring a public function named AssertFunc that takes an unsigned integer as an argument.",
+"line 16": "This line is using the assert statement to check if the input is equal to 15. If not, the transaction will be reverted and an error will be thrown."
+}
