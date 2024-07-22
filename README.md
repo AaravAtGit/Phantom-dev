@@ -53,7 +53,7 @@ The project was born out of a need to create code explanation videos without the
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/phantom-developer.git
+   git clone https://github.com/AaravAtGit/phantom-dev.git
    ```
 
 2. Navigate to the project directory:
